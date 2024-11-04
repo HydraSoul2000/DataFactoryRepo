@@ -1,0 +1,17 @@
+{
+	"name": "Impala1",
+	"properties": {
+		"annotations": [],
+		"type": "Impala",
+		"typeProperties": {
+			"host": "192.168.222.160",
+			"port": "21050",
+			"authenticationType": "Anonymous",
+			"enableSsl": false
+		},
+		"connectVia": {
+			"referenceName": "AutoResolveIntegrationRuntime",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
