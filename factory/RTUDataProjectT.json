@@ -1,0 +1,9 @@
+{
+	"name": "RTUDataProjectT",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "76171835-14ca-4124-828c-75aa2cdbef41",
+		"tenantId": "2a543d45-a972-4474-9d53-dcf1a97e1623"
+	}
+}
