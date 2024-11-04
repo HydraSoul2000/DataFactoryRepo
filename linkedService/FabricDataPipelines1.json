@@ -1,0 +1,11 @@
+{
+	"name": "FabricDataPipelines1",
+	"properties": {
+		"annotations": [],
+		"type": "WebConnection",
+		"connectVia": {
+			"referenceName": "AutoResolveIntegrationRuntime",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
